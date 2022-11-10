@@ -37,6 +37,11 @@ button {
 }
 ::-webkit-scrollbar-thumb:hover {
   background: #bec7b4;
+  transition: all ease 1000ms;
+  -webkit-transition: all ease 1000ms;
+  -moz-transition: all ease 1000ms;
+  -ms-transition: all ease 1000ms;
+  -o-transition: all ease 1000ms;
 }
 ::-webkit-scrollbar-track {
   background: rgba(0, 0, 0, 0.85);

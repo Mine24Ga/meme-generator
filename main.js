@@ -92,7 +92,6 @@ downloadButton.addEventListener('click', ()=>{
 });
 /*------------------------------------------ ASIDE / IMG ----------------------------------*/
 // Boton cerrar modal
-//NO FUNCIONA!!!
 asideButton.addEventListener('click', ()=>{
     asideContainer.style.display ='none';
 });
